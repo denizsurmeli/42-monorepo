@@ -1,0 +1,7 @@
+.vscode/
+cmake-build-debug/
+.idea/
+gnlTester/
+a.out
+a.out.dSYM/
+*.h.gch
